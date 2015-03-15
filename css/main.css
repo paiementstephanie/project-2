@@ -10,3 +10,11 @@ body{
 font-family: 'Noto Sans', sans-serif;
 margin:0;
 }
+
+h3{
+	color: white;
+}
+
+h1{
+	background-color: #e7001d;
+}
