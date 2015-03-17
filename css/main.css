@@ -17,11 +17,36 @@ header {
 	text-align: center;
 	padding: 20px;
 }
+
 header img {
 	width: 125px;
 	margin: auto;
 }
 
+header h1 {
+	color: white;
+	top: 115px;
+	right: 2px;
+	width: 100%;
+	position: absolute;
+	font-weight: 700;
+	position: absolute;
+	margin: 0em;
+	font-size: 1em;
+	text-shadow: #222 2px 2px 3px
+}
+
+.header-symbols {
+	color: white;
+	right: 2px;
+	top: 25px;
+	width: 100%;
+	margin: 0em;
+	position: absolute;
+	font-weight: 700;
+	font-size: 4em;
+	text-shadow: #222 2px 2px 3px
+}
 
 h2 {
 	text-align: center;
