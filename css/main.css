@@ -11,10 +11,56 @@ font-family: 'Noto Sans', sans-serif;
 margin:0;
 }
 
-h3{
-	color: white;
+h2 {
+	text-align: center;
+	font-size: 1.5em;
 }
 
-h1{
+
+.dragon-div {
+	background-color: #e4c22a;
+	color: black;
+	margin: 0em;
+	text-align: center;
+	font-style: italic;
+	padding: 0.5em;
+}
+
+
+.goat-div {
+	background-color: #222222;
+	color: white;
+	margin: 0em;
+	text-align: center;
+	font-style: italic;
+	padding: 0.5em;
+}
+
+.rooster-div {
 	background-color: #e7001d;
+	color: white;
+	margin: 0em;
+	text-align: center;
+	font-style: italic;
+	padding: 0.5em;
+}
+
+.ox-div {
+	background-color: #e4c22a;
+	color: black;
+	margin: 0em;
+	text-align: center;
+	font-style: italic;
+	padding: 0.5em;
+}
+
+
+
+footer {
+	background-color: #222222;
+	color: white;
+	text-decoration: underline;
+	padding: 1em;
+	margin: 0;
+	text-align:center;
 }
