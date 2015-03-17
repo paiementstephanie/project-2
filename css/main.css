@@ -48,6 +48,14 @@ header h1 {
 	text-shadow: #222 2px 2px 3px
 }
 
+.left{
+	float:left;
+}
+
+.right{
+	clear:left;
+}
+
 h2 {
 	text-align: center;
 	font-size: 1.5em;
