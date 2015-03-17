@@ -6,6 +6,10 @@ html {
 	box-sizing: inherit;
 }
 
+img{
+	width: 100%;
+}
+
 body{
 font-family: 'Noto Sans', sans-serif;
 margin:0;
@@ -28,12 +32,11 @@ header h1 {
 	top: 115px;
 	right: 2px;
 	width: 100%;
-	position: absolute;
 	font-weight: 700;
 	position: absolute;
 	margin: 0em;
 	font-size: 1em;
-	text-shadow: #222 2px 2px 3px
+	text-shadow: #222 2px 2px 3px;
 }
 
 .header-symbols {
@@ -45,7 +48,7 @@ header h1 {
 	position: absolute;
 	font-weight: 700;
 	font-size: 4em;
-	text-shadow: #222 2px 2px 3px
+	text-shadow: #222 2px 2px 3px;
 }
 
 .left{
