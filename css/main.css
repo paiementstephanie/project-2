@@ -67,6 +67,11 @@ nav ol{
 	padding: 0em;
 }
 
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
 nav li{
 	display: inline-block;
 	border: 1px solid black;
@@ -75,8 +80,13 @@ nav li{
 	margin: 0em;
 }
 
+.paragraph {
+	padding: 0em 0.5em 0em 0.5em;
+}
+
 .shenxiago{
 	padding: 0em;
+	position:relative;
 }
 
 .shexiago p{
@@ -86,6 +96,7 @@ nav li{
 .banner-img {
 	width: 100%;
 	padding: 0em;
+	display:block;
 }
 
 .shenxiago-title{
@@ -95,10 +106,10 @@ nav li{
 	margin: 0em;
 	width: 100%;
 	padding: 0em;
-	top: 550px;
 	text-align: center;
 	position: absolute;
 	font-style: italic;
+	bottom: 1em;
 }
 
 h2 {
@@ -143,8 +154,7 @@ h2 {
 }
 
 div img{
-	width: 135px;
-	display: inline-block;
+	width: 40%;
 }
 
 footer {
@@ -154,4 +164,9 @@ footer {
 	padding: 1em;
 	margin: 0;
 	text-align:center;
+}
+
+
+footer a{
+	color: white;
 }
