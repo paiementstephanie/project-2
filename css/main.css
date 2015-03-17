@@ -56,6 +56,16 @@ header h1 {
 	clear:left;
 }
 
+nav{
+	background-color: #222222;
+	margin: 0em;
+}
+
+nav ol{
+	list-style-type: none;
+	margin: 0em;
+	padding: 0em;
+}
 
 h2 {
 	text-align: center;
