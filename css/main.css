@@ -11,11 +11,22 @@ font-family: 'Noto Sans', sans-serif;
 margin:0;
 }
 
+header {
+	background-color: #e7001d;
+	position: relative;
+	text-align: center;
+	padding: 20px;
+}
+header img {
+	width: 125px;
+	margin: auto;
+}
+
+
 h2 {
 	text-align: center;
 	font-size: 1.5em;
 }
-
 
 .dragon-div {
 	background-color: #e4c22a;
@@ -25,7 +36,6 @@ h2 {
 	font-style: italic;
 	padding: 0.5em;
 }
-
 
 .goat-div {
 	background-color: #222222;
